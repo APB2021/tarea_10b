@@ -1,0 +1,52 @@
+[
+  {
+    "nia": 1,
+	"nombre": "DIEGO",
+	 "apellidos": "YAÑEZ",
+	 "genero": "H",
+	 "fechaNacimiento": "Jan 1, 2004, 12:00:00 AM",
+	 "ciclo": "DAM",
+	 "curso": "2º",
+	 "grupo": "A"
+  },
+  {
+    "nia": 2,
+    "nombre": "MARIA",
+    "apellidos": "OLALLA  GARCIA",
+    "genero": "M",
+    "fechaNacimiento": "Dec 18, 1979, 12:00:00 AM",
+    "ciclo": "PEDAGOGÍA",
+    "curso": "2º",
+    "grupo": "P"
+  },
+  {
+    "nia": 3,
+    "nombre": "SILVIA",
+    "apellidos": "POLO BARDERA",
+    "genero": "M",
+    "fechaNacimiento": "Jun 13, 1978, 12:00:00 AM",
+    "ciclo": "CONTABILIDAD",
+    "curso": "2º",
+    "grupo": "C"
+  },
+  {
+    "nia": 4,
+    "nombre": "CARLOS",
+    "apellidos": "POLO BARDERA",
+    "genero": "H",
+    "fechaNacimiento": "Dec 16, 1975, 12:00:00 AM",
+    "ciclo": "ELECTRICIDAD",
+    "curso": "2º",
+    "grupo": "E"
+  },
+  {
+     "nia": 5,
+     "nombre": "ALBERTO",
+     "apellidos": "POLO BARDERA",
+     "genero": "H",
+     "fechaNacimiento": "Mar 17, 1973, 12:00:00 AM",
+     "ciclo": "DAM",
+     "curso": "2º",
+     "grupo": "A"
+    } 
+]
